@@ -16,7 +16,7 @@ const About = () => {
 					</p>
 				</div>
 				<p className="text-xl mt-20">
-					Actuellement étudiant a l'école 42 de paris, je recherche un stage
+					Anciennement étudiant a l'école 42 de paris, je recherche un stage
 					dans le développement web front-end ou back-end, avec une préférence
 					pour le langage JavaScript, et son framework react.js.
 				</p>
@@ -27,11 +27,12 @@ const About = () => {
 					Actuellement je monte en compétences sur TypeScript et Mobx state
 					Manager, je sais créer des applications sous Docker
 					<br />
+					<br />
 					Ayant un intérêt tout particulier pour le design et les CMS, j'utilise
 					Webflow.
 					<br />
-					<br /> J'ai également des notions de maquettage et prototypage avec
-					Figma, et Adobe Xd.
+					J'ai également des notions de maquettage et prototypage avec Figma, et
+					Adobe Xd.
 					<br />
 					Grâce à mon expérience de dirigeant je sais naturellement travailler
 					en équipe.
