@@ -16,23 +16,25 @@ const About = () => {
 					</p>
 				</div>
 				<p className="text-xl mt-20">
-					Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-					ipsam, rerum ratione doloribus molestiae veniam quia expedita adipisci
-					voluptates ullam et officia voluptas incidunt libero ducimus id
-					excepturi hic mollitia sunt soluta obcaecati iusto! Nulla fugit
-					distinctio architecto nesciunt? Consequatur assumenda reprehenderit
-					perferendis in. Incidunt commodi eaque quae voluptates placeat.
+					Actuellement étudiant a l'école 42 de paris, je recherche un stage
+					dans le développement web front-end ou back-end, avec une préférence
+					pour le langage JavaScript, et son framework react.js.
 				</p>
 
 				<br />
 
 				<p className="text-xl">
-					Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque ipsa
-					aspernatur eius quas distinctio nobis deleniti doloremque facilis rem,
-					non sunt. Veniam sit culpa natus dignissimos doloribus voluptate ipsum
-					voluptates aliquam fugiat harum! Provident est omnis dolorem eos
-					deserunt quia doloremque, itaque doloribus odit distinctio culpa, rem
-					ipsum quod error.
+					Actuellement je monte en compétences sur TypeScript et Mobx state
+					Manager, je sais créer des applications sous Docker
+					<br />
+					Ayant un intérêt tout particulier pour le design et les CMS, j'utilise
+					Webflow.
+					<br />
+					<br /> J'ai également des notions de maquettage et prototypage avec
+					Figma, et Adobe Xd.
+					<br />
+					Grâce à mon expérience de dirigeant je sais naturellement travailler
+					en équipe.
 				</p>
 			</div>
 		</div>

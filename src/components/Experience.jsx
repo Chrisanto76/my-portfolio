@@ -39,7 +39,7 @@ const Experience = () => {
 			style: 'shadow-green-500',
 		},
 		{
-			id: 1,
+			id: 6,
 			src: tailwind,
 			title: 'TAILWIND CSS',
 			style: 'shadow-sky-400',

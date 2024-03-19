@@ -49,7 +49,7 @@
 
 // export default Home;
 import React from 'react';
-import HeroImage from '../assets/tailwind.png';
+import HeroImage from '../assets/hero-img.jpeg';
 import { MdOutlineKeyboardArrowRight } from 'react-icons/md';
 import { Link } from 'react-scroll';
 
